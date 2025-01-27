@@ -1,0 +1,15 @@
+.navbar {
+  height: 50px;
+  width: 97vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 15px;
+  background-color: antiquewhite;
+}
+
+.navbar__links {
+  display: flex;
+  column-gap: 20px;
+  margin-left: auto 0;
+}

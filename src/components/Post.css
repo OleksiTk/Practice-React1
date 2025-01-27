@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(56, 49, 49);
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.post {
+  width: 1000px;
+  border: 1px solid red;
+  background-color: bisque;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.post__content {
+  padding-right: 700px;
+}
+.post__button {
+  color: red;
+}

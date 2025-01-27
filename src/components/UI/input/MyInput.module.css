@@ -1,0 +1,11 @@
+.body {
+  display: flex;
+  flex-direction: column;
+}
+.my__input {
+  padding: 10px 20px;
+  color: blanchedalmond;
+  font-size: 18px;
+  background-color: transparent;
+  border: 1px solid blueviolet;
+}
