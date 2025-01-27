@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./PostItem.jsx";
-import "./post.css";
+import "./Post.css";
 import PostItem from "./PostItem.jsx";
 const Posts = function ({ posts, title, remove }) {
   return (
